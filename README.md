@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Visual Studio Code is great, Swift is great. I try my best make them both friends.
+I also like typescript, compilers, functional programming and rc cars.
+
 <!--
 **vknabel/vknabel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
