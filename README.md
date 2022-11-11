@@ -3,9 +3,10 @@
 Visual Studio Code is great, Swift is great. I try my best make them [both friends](https://marketplace.visualstudio.com/publishers/vknabel).
 I also like Go, typescript, compilers, functional programming and working on my own toy-programming-language [Lithia](https://github.com/vknabel/lithia).
 
-- 📫 How to reach me: [@vknabel on Twitter](https://twitter.com/vknabel)
-- 🌍 My website: [vknabel.com](https://www.vknabel.com)
-- 👤 More info [about me](https://www.vknabel.com/pages/About-Me/)
+- 🦣 [@vknabel@mastodon.social](https://mastodon.social/@vknabel)
+- 🌍 [vknabel.com](https://www.vknabel.com)
+- 👤 [about me](https://www.vknabel.com/pages/About-Me/)
+- 🦅 [@vknabel on Twitter](https://twitter.com/vknabel)
 
 <!--
 **vknabel/vknabel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
