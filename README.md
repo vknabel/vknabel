@@ -6,8 +6,7 @@ I also like Go, typescript, compilers, functional programming and working on my 
 - 🦣 [@vknabel@mastodon.social](https://mastodon.social/@vknabel)
 - 🌍 [vknabel.com](https://www.vknabel.com)
 - 👤 [about me](https://www.vknabel.com/pages/About-Me/)
-- 🦅 [@vknabel on Twitter](https://twitter.com/vknabel)
-
+- [dev.to/vknabel](https://dev.to/vknabel)
 <!--
 **vknabel/vknabel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
