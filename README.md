@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Visual Studio Code is great, Swift is great. I try my best make them [both friends](https://marketplace.visualstudio.com/publishers/vknabel).
-I also like Go, typescript, compilers, functional programming and working on my own toy-programming-language [Lithia](https://github.com/vknabel/lithia).
+Working on [metal-stack](https://github.com/metal-stack) by day and on my own toy-programming-language [Lithia](https://github.com/vknabel/lithia) by night.
 
 - 🦣 [@vknabel@mastodon.social](https://mastodon.social/@vknabel)
 - 🌍 [vknabel.com](https://www.vknabel.com)
